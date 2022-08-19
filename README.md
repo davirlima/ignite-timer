@@ -29,13 +29,16 @@ Esta é uma aplicação web de um *timer* com o intuito de organização pessoal
   />
 </div>
 
+<!--
 ## Bibliotecas:
 
 * ?.
 
+
 ## Acesse a aplicação:
 
 <#>
+-->
 
 ## Se deseja executar o projeto localmente, realize os seguintes passos:
 
@@ -62,14 +65,14 @@ Esta é uma aplicação web de um *timer* com o intuito de organização pessoal
   # ou
   yarn dev
   ~~~
-
+<!--
 ## Interface:
 
 * Desktop e Laptop:
 
 <img
   src="#"
-  alt="Interfaca da Aplicação To Do List em Desktop e Laptop"
+  alt="Interface da Aplicação To Do List em Desktop e Laptop"
 />
 
 * Mobile:
@@ -77,5 +80,6 @@ Esta é uma aplicação web de um *timer* com o intuito de organização pessoal
 <img
   height="800px"
   src="#"
-  alt="Interfaca da Aplicação To Do List em Mobile"
+  alt="Interface da Aplicação To Do List em Mobile"
 />
+-->
