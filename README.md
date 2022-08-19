@@ -1,13 +1,14 @@
 # Ignite Timer
 
-> Status: Developing ⚠️ 
+> Status: Developing ⚠️
 
-Esta é uma aplicação web de um *timer* com o intuito de organização pessoal na realização de tarefas; apresentando as seguintes funções:
-  * Criar uma tarefa;
-  * Definir um tempo para cada tarefa;
-  * Iniciar e interromper a contagem do tempo;
-  * Visualizar o histórico das tarefas já criadas, com seu respectivo tempo determinado;
-  * Visualizar o status da tarefa ("Concluída", "Interrompida" ou "Em andamento").
+Esta é uma aplicação web de um _timer_ com o intuito de organização pessoal na realização de tarefas; apresentando as seguintes funções:
+
+- Criar uma tarefa;
+- Definir um tempo para cada tarefa;
+- Iniciar e interromper a contagem do tempo;
+- Visualizar o histórico das tarefas já criadas, com seu respectivo tempo determinado;
+- Visualizar o status da tarefa ("Concluída", "Interrompida" ou "Em andamento").
 
 ## Tecnologias:
 
@@ -34,37 +35,38 @@ Esta é uma aplicação web de um *timer* com o intuito de organização pessoal
 
 * ?.
 
+-->
 
 ## Acesse a aplicação:
 
-<#>
--->
+<https://ignite-timer-davirlima.vercel.app/>
 
 ## Se deseja executar o projeto localmente, realize os seguintes passos:
 
-*Obs:* Tenha o *Node.js v.16.17.0* instalado em sua máquina
+_Obs:_ Tenha o _Node.js v.16.17.0_ instalado em sua máquina
 
 1. Clone o repositório em seu terminal com o comando:
 
- ~~~bash
- git clone https://github.com/davirlima/ignite-timer.git
- ~~~
- 
+```bash
+git clone https://github.com/davirlima/ignite-timer.git
+```
+
 2. Instale as dependências com o comando:
 
-  ~~~bash
-  npm install
-  # ou
-  yarn install
-  ~~~
-  
+```bash
+npm install
+# ou
+yarn install
+```
+
 3. Execute a aplicação com o comando:
 
-  ~~~bash
-  npm run dev
-  # ou
-  yarn dev
-  ~~~
+```bash
+npm run dev
+# ou
+yarn dev
+```
+
 <!--
 ## Interface:
 
