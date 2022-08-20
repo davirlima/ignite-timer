@@ -30,12 +30,9 @@ Esta é uma aplicação web de um _timer_ com o intuito de organização pessoal
   />
 </div>
 
-<!--
 ## Bibliotecas:
 
-* ?.
-
--->
+- Styled-Components.
 
 ## Acesse a aplicação:
 
