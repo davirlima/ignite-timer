@@ -33,7 +33,8 @@ Esta é uma aplicação web de um _timer_ com o intuito de organização pessoal
 ## Bibliotecas:
 
 - Styled-Components;
-- React Router.
+- React Router;
+- Phosphor Icons.
 
 ## Acesse a aplicação:
 
