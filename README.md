@@ -32,7 +32,8 @@ Esta é uma aplicação web de um _timer_ com o intuito de organização pessoal
 
 ## Bibliotecas:
 
-- Styled-Components.
+- Styled-Components;
+- React Router.
 
 ## Acesse a aplicação:
 
