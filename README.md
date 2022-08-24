@@ -36,7 +36,8 @@ Esta é uma aplicação web de um _timer_ com o intuito de organização pessoal
 - React Router;
 - Phosphor Icons;
 - React Hook Form;
-- Zod.
+- Zod;
+- date-fns.
 
 ## Acesse a aplicação:
 
