@@ -94,6 +94,8 @@ export function Home() {
   useEffect(() => {
     if (activeCycle) {
       document.title = `${minutes}:${seconds}`;
+    } else {
+      document.title = "Ignite Feed";
     }
   }, [minutes, seconds, activeCycle]);
 
