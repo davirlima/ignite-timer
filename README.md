@@ -6,7 +6,8 @@
 
 Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizando *ReactJS*.
 
-:link: <https://ignite-timer-davirlima.vercel.app/> :link:
+<!-- :link: <https://ignite-timer-davirlima.vercel.app/> :link: -->
+:construction: __Projeto em desenvolvimento__ :construction:
 
 </div>
 
