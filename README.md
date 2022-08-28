@@ -48,6 +48,7 @@ Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizan
 - **Visualizar o histórico das tarefas já criadas, com seu respectivo tempo determinado**;
 - **Visualizar o status da tarefa ("Concluída", "Interrompida" ou "Em andamento")**.
 
+<!--
 ## :open_file_folder: Execute o projeto localmente
 
 :heavy_exclamation_mark: **Requisitos:** *Node.js v.16.17.0*
@@ -73,7 +74,7 @@ Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizan
   # ou
   yarn dev
   ~~~
-<!--
+
 ## :computer: Interfaces:
 
 <div align="center">
