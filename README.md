@@ -6,8 +6,7 @@
 
 Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizando *ReactJS*.
 
-<!-- :link: <https://ignite-timer-davirlima.vercel.app/> :link: -->
-:construction: __Projeto em desenvolvimento__ :construction:
+:link: <https://ignite-timer-davirlima.vercel.app/> :link:
 
 </div>
 
@@ -38,7 +37,8 @@ Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizan
 - phosphor icons;
 - react hook form;
 - zod;
-- date-fns.
+- date-fns;
+- immer.
 
 ## :hammer: Funcionalidades:
 
@@ -48,7 +48,6 @@ Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizan
 - **Visualizar o histórico das tarefas já criadas, com seu respectivo tempo determinado**;
 - **Visualizar o status da tarefa ("Concluída", "Interrompida" ou "Em andamento")**.
 
-<!--
 ## :open_file_folder: Execute o projeto localmente
 
 :heavy_exclamation_mark: **Requisitos:** *Node.js v.16.17.0*
@@ -79,30 +78,19 @@ Aplicação web de um timer pomodoro, para organização pessoal. Feito utilizan
 
 <div align="center">
   <img
-   src="https://user-images.githubusercontent.com/97968740/186976072-99c0eb02-235e-4eb3-bfd9-b9ca1dc4fbd7.png"
-   alt="Interface da Aplicação To do List, tema light, em Desktop e Laptop"
-   width=74%
+   src="https://user-images.githubusercontent.com/97968740/188674286-e0601841-a144-497a-b93a-cdd8e6ece899.png"
+   alt="Interface da Aplicação Ignite Timer, página Home"
+   width=45%
   />
   <img
-   src="https://user-images.githubusercontent.com/97968740/186976329-70cdab9a-4473-47e0-b0d2-a7d8cfd63803.png"
-   alt="Interface da Aplicação To do List, tema light, em Mobile"
-   width=25%
+   src="https://user-images.githubusercontent.com/97968740/188674511-253aca6c-a5bc-4231-99bf-7dbe97e10484.png"
+   alt="Interface da Aplicação Ignite Timer, página Histórico"
+   width=45%
   />
   <img
-   src="https://user-images.githubusercontent.com/97968740/186976587-693d3f77-abbf-4970-b7c7-a3c41173b63a.png"
-   alt="Interface da Aplicação To do List, tema dark, em Desktop e Laptop"
-   width=74%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/186976411-32f34e92-f6ae-4d33-9480-6ced1ae7f59c.png"
-   alt="Interface da Aplicação To do List, tema dark, em Desktop e Laptop"
-   width=25%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/186977015-fb8fc144-fa5a-489c-beff-7b2114fb9f7a.gif"
+   src="https://user-images.githubusercontent.com/97968740/188675927-ddfdc2f1-3334-4fd3-8f5f-bd03fc1c73ec.gif"
    alt="GIF demonstrativo da aplicação"
    width=99%
    align="center"
   />
 </div>
--->
