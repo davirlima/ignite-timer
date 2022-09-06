@@ -55,7 +55,7 @@ export function Countdown() {
     if (activeCycle) {
       document.title = `${minutes}:${seconds}`;
     } else {
-      document.title = "Ignite Feed";
+      document.title = "Ignite Timer";
     }
   }, [minutes, seconds, activeCycle]);
 
